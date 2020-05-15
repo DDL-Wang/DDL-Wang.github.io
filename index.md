@@ -1,37 +1,11 @@
 # 欢迎来到我的 GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/DDL-Wang/DDL-Wang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+大家好，我姓王。很高兴能来到Github，我将学着利用这个平台来建立自己的博客。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 博客里有什么？
 
-### Markdown
+*我是一名微电子学院的学生，所以我可能会在博客里记录自己的学习生涯。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*此外，我也是一名游戏玩家（尤其喜欢星际争霸2）。所以我也会记录下自己游戏的点点滴滴。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DDL-Wang/DDL-Wang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+总之，这是我的一小步。祝大家身体健康！
